@@ -15,6 +15,10 @@ Boilerplate: eg. Adtrak Boilerplate
 
 Theme: eg. adtrak-tailwind-twig-timber-gutenberg
 
+Originally built by: eg Nigel French
+
+Currently worked on by: eg. Nigel French
+
 Payment Gateway: eg. PayPal only | Stripe | Square
 
 Node Version running on: eg. v14.21.3
