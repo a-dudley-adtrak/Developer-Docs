@@ -3,7 +3,7 @@
 Below are the details of the build filled in by the web developer
 
 
-## Initial Release - yyyy-mm-dd
+## Initial Release - dd-mm-yyyy
 
 Boilerplate: eg. Adtrak Boilerplate
 
@@ -37,7 +37,7 @@ Client access granted: eg. True / False
 
 Any other specifis quirks: eg. Requires manually pulling reviews folder from live site to get those working locally
 
-## Change - yyyy-mm-dd
+## Change - dd-mm-yyyy
 Description of change: eg. Client wanted to change the payment gateway to Stripe
 
 Payment Gateway: eg. Stripe
@@ -45,7 +45,7 @@ Payment Gateway: eg. Stripe
 Developer Name: eg. Nigel French
 
 
-## Change - yyyy-mm-dd
+## Change - dd-mm-yyyy
 Description of change: eg. CRO amends resulted in a form solution change to Formspree
 
 Form solution: eg. Formspree
