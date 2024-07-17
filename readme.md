@@ -4,8 +4,8 @@ Below are the details of the build filled in by the web developer
 
 ## Bespoke Content / Features
 
-Title: 
-Details:
+Title: eg. RestAPI feature on news page to dynamically load content
+Details: file located in _parts/blog/rest.php
 
 
 ## Initial Release - dd-mm-yyyy
