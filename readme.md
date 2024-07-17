@@ -17,6 +17,8 @@ NPM Version running on: eg. v6.14
 
 Composer Version running on: v2.5.8
 
+Requires ENV file?: True / False
+
 Figma design link:
 
 Has ALD: eg. True / False
@@ -33,7 +35,7 @@ SMTP details: eg. Client noreply via Google Workspace
 
 Client access granted: eg. True / False
 
-  
+Any other specifis quirks: eg. Requires manually pulling reviews folder from live site to get those working locally
 
 ## Change - yyyy-mm-dd
 Description of change: eg. Client wanted to change the payment gateway to Stripe
